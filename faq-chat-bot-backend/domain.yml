@@ -1,0 +1,31 @@
+intents:
+- question0
+- question1
+- question2
+- question3
+- question4
+- question5
+- question6
+templates:
+  utter_answer0:
+  - text: internetten
+  utter_answer1:
+  - text: Istanbul
+  utter_answer2:
+  - text: yagmurlu
+  utter_answer3:
+  - text: Iptal et o zaman
+  utter_answer4:
+  - text: Patates
+  utter_answer5:
+  - text: s?yah
+  utter_answer6:
+  - text: yeter art?k sorma
+actions:
+- utter_answer0
+- utter_answer1
+- utter_answer2
+- utter_answer3
+- utter_answer4
+- utter_answer5
+- utter_answer6
